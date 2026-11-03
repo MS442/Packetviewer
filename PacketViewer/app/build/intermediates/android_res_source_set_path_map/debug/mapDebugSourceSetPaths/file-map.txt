@@ -1,0 +1,42 @@
+com.example.packetviewer.app-recyclerview-1.3.2-0 /home/rishi/.gradle/caches/9.1.0/transforms/2006457014f2d51a309e0eab164b1552/transformed/recyclerview-1.3.2/res
+com.example.packetviewer.app-transition-1.2.0-1 /home/rishi/.gradle/caches/9.1.0/transforms/296737f3d2444dafb7bfcc9b86045c89/transformed/transition-1.2.0/res
+com.example.packetviewer.app-lifecycle-livedata-core-2.6.1-2 /home/rishi/.gradle/caches/9.1.0/transforms/300ce1841427ca42e484bdaed94f6b13/transformed/lifecycle-livedata-core-2.6.1/res
+com.example.packetviewer.app-startup-runtime-1.1.1-3 /home/rishi/.gradle/caches/9.1.0/transforms/322caa114f5bdf4b68a0fb4fd298d97f/transformed/startup-runtime-1.1.1/res
+com.example.packetviewer.app-core-1.9.0-4 /home/rishi/.gradle/caches/9.1.0/transforms/39d78addd6421f8823e6c92d95064bcf/transformed/core-1.9.0/res
+com.example.packetviewer.app-activity-1.8.0-5 /home/rishi/.gradle/caches/9.1.0/transforms/3ca00864ecb9898eeee14a1b4e29b5fd/transformed/activity-1.8.0/res
+com.example.packetviewer.app-emoji2-1.2.0-6 /home/rishi/.gradle/caches/9.1.0/transforms/4adbd8dc1a670d620f494bf318498fb4/transformed/emoji2-1.2.0/res
+com.example.packetviewer.app-annotation-experimental-1.3.0-7 /home/rishi/.gradle/caches/9.1.0/transforms/4da1e6e8d79f5584672bcd9a984090a3/transformed/annotation-experimental-1.3.0/res
+com.example.packetviewer.app-savedstate-1.2.1-8 /home/rishi/.gradle/caches/9.1.0/transforms/57678bd7764758453014f9273ea7f556/transformed/savedstate-1.2.1/res
+com.example.packetviewer.app-coordinatorlayout-1.1.0-9 /home/rishi/.gradle/caches/9.1.0/transforms/59128fcc3634320741397df6e999144b/transformed/coordinatorlayout-1.1.0/res
+com.example.packetviewer.app-lifecycle-viewmodel-savedstate-2.6.1-10 /home/rishi/.gradle/caches/9.1.0/transforms/605d295f9621a94bb9a0ca8fb1922673/transformed/lifecycle-viewmodel-savedstate-2.6.1/res
+com.example.packetviewer.app-customview-poolingcontainer-1.0.0-11 /home/rishi/.gradle/caches/9.1.0/transforms/61591d266502381191c9ca4d61959ae7/transformed/customview-poolingcontainer-1.0.0/res
+com.example.packetviewer.app-play-services-base-18.3.0-12 /home/rishi/.gradle/caches/9.1.0/transforms/65bd61cd1b74b0db226c50fda24de336/transformed/play-services-base-18.3.0/res
+com.example.packetviewer.app-lifecycle-viewmodel-2.6.1-13 /home/rishi/.gradle/caches/9.1.0/transforms/66a649c6aa71f1bc70b2a0852220fb5f/transformed/lifecycle-viewmodel-2.6.1/res
+com.example.packetviewer.app-firebase-common-21.0.0-14 /home/rishi/.gradle/caches/9.1.0/transforms/67a1901947ee401e7ce2c3da1e3acb87/transformed/firebase-common-21.0.0/res
+com.example.packetviewer.app-cardview-1.0.0-15 /home/rishi/.gradle/caches/9.1.0/transforms/6991d3c362dbc50a2f9dfe9b4c44107f/transformed/cardview-1.0.0/res
+com.example.packetviewer.app-material-1.11.0-16 /home/rishi/.gradle/caches/9.1.0/transforms/6dae19b25048fe9a14c8ab0512f091c3/transformed/material-1.11.0/res
+com.example.packetviewer.app-appcompat-1.6.1-17 /home/rishi/.gradle/caches/9.1.0/transforms/731ed93ba0a8e8e560f29da744377155/transformed/appcompat-1.6.1/res
+com.example.packetviewer.app-lifecycle-runtime-2.6.1-18 /home/rishi/.gradle/caches/9.1.0/transforms/7a55523c0d3e32ce9a5f0fb04d5a7882/transformed/lifecycle-runtime-2.6.1/res
+com.example.packetviewer.app-constraintlayout-2.1.4-19 /home/rishi/.gradle/caches/9.1.0/transforms/7af26f591cdcaeb5f309a6b3254698e2/transformed/constraintlayout-2.1.4/res
+com.example.packetviewer.app-play-services-auth-21.2.0-20 /home/rishi/.gradle/caches/9.1.0/transforms/7b57ee75b0ce953f30fcab1382984fb8/transformed/play-services-auth-21.2.0/res
+com.example.packetviewer.app-play-services-basement-18.3.0-21 /home/rishi/.gradle/caches/9.1.0/transforms/807860fe6083908b9f7bfdcf14cdcdba/transformed/play-services-basement-18.3.0/res
+com.example.packetviewer.app-core-runtime-2.2.0-22 /home/rishi/.gradle/caches/9.1.0/transforms/88ace7866becf3af2d953876c8b2ce97/transformed/core-runtime-2.2.0/res
+com.example.packetviewer.app-profileinstaller-1.3.0-23 /home/rishi/.gradle/caches/9.1.0/transforms/8c60801ea267ae898464cf55c64ded84/transformed/profileinstaller-1.3.0/res
+com.example.packetviewer.app-credentials-1.2.0-rc01-24 /home/rishi/.gradle/caches/9.1.0/transforms/8fcc34679c88276a5ae83ad81e6d515a/transformed/credentials-1.2.0-rc01/res
+com.example.packetviewer.app-emoji2-views-helper-1.2.0-25 /home/rishi/.gradle/caches/9.1.0/transforms/9bca388019af63b018e08276eec3da52/transformed/emoji2-views-helper-1.2.0/res
+com.example.packetviewer.app-credentials-play-services-auth-1.2.0-rc01-26 /home/rishi/.gradle/caches/9.1.0/transforms/a6e27c447fce14ddb3e92111e753cead/transformed/credentials-play-services-auth-1.2.0-rc01/res
+com.example.packetviewer.app-drawerlayout-1.1.1-27 /home/rishi/.gradle/caches/9.1.0/transforms/ae7efb641da0a401738e36457c23157a/transformed/drawerlayout-1.1.1/res
+com.example.packetviewer.app-fragment-1.6.2-28 /home/rishi/.gradle/caches/9.1.0/transforms/b353babd2bad601c0eb682f421282155/transformed/fragment-1.6.2/res
+com.example.packetviewer.app-lifecycle-process-2.6.1-29 /home/rishi/.gradle/caches/9.1.0/transforms/bdbbb0ef494647adda3b1b7011dbc3f3/transformed/lifecycle-process-2.6.1/res
+com.example.packetviewer.app-core-ktx-1.9.0-30 /home/rishi/.gradle/caches/9.1.0/transforms/d1f7f191b7ffbf440af642f52bdafc06/transformed/core-ktx-1.9.0/res
+com.example.packetviewer.app-browser-1.4.0-31 /home/rishi/.gradle/caches/9.1.0/transforms/d4a044d0e328828873ced27fc396edc8/transformed/browser-1.4.0/res
+com.example.packetviewer.app-viewpager2-1.1.0-beta02-32 /home/rishi/.gradle/caches/9.1.0/transforms/d88672a11d51a39bf71f00c6dd0fc04c/transformed/viewpager2-1.1.0-beta02/res
+com.example.packetviewer.app-appcompat-resources-1.6.1-33 /home/rishi/.gradle/caches/9.1.0/transforms/efde64f8cc2f803bc886af283e85ed94/transformed/appcompat-resources-1.6.1/res
+com.example.packetviewer.app-pngs-34 /home/rishi/AndroidStudioProjects/PacketViewer (10)/PacketViewer/app/build/generated/res/pngs/debug
+com.example.packetviewer.app-res-35 /home/rishi/AndroidStudioProjects/PacketViewer (10)/PacketViewer/app/build/generated/res/processDebugGoogleServices
+com.example.packetviewer.app-updated_navigation_xml-36 /home/rishi/AndroidStudioProjects/PacketViewer (10)/PacketViewer/app/build/generated/updated_navigation_xml/debug
+com.example.packetviewer.app-packageDebugResources-37 /home/rishi/AndroidStudioProjects/PacketViewer (10)/PacketViewer/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.packetviewer.app-packageDebugResources-38 /home/rishi/AndroidStudioProjects/PacketViewer (10)/PacketViewer/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.packetviewer.app-debug-39 /home/rishi/AndroidStudioProjects/PacketViewer (10)/PacketViewer/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.packetviewer.app-debug-40 /home/rishi/AndroidStudioProjects/PacketViewer (10)/PacketViewer/app/src/debug/res
+com.example.packetviewer.app-main-41 /home/rishi/AndroidStudioProjects/PacketViewer (10)/PacketViewer/app/src/main/res

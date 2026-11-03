@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "824324295795",
+    "firebase_url": "https://packetviewer-219e9-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "packetviewer-219e9",
+    "storage_bucket": "packetviewer-219e9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824324295795:android:573dcd058d886a3c1f2e06",
+        "android_client_info": {
+          "package_name": "com.example.packetviewer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824324295795-n7298i3cmerpo2goufddeoul6133dhbv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB99Wb1hj6ZktpQ4wp61oRssBnl4_guCoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824324295795-n7298i3cmerpo2goufddeoul6133dhbv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/home/rishi/.gradle/daemon/9.1.0/com.example.packetviewer.app-debug-38:/layout_activity_login.xml.flat",
+        "source": "/home/rishi/.gradle/daemon/9.1.0/com.example.packetviewer.app-main-40:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/rishi/.gradle/daemon/9.1.0/com.example.packetviewer.app-debug-38:/layout_fragment_detector.xml.flat",
+        "source": "/home/rishi/.gradle/daemon/9.1.0/com.example.packetviewer.app-main-40:/layout/fragment_detector.xml"
+    },
+    {
+        "merged": "/home/rishi/.gradle/daemon/9.1.0/com.example.packetviewer.app-debug-38:/layout_fragment_history.xml.flat",
+        "source": "/home/rishi/.gradle/daemon/9.1.0/com.example.packetviewer.app-main-40:/layout/fragment_history.xml"
+    },
+    {
+        "merged": "/home/rishi/.gradle/daemon/9.1.0/com.example.packetviewer.app-debug-38:/layout_view_ipv4_grid.xml.flat",
+        "source": "/home/rishi/.gradle/daemon/9.1.0/com.example.packetviewer.app-main-40:/layout/view_ipv4_grid.xml"
+    },
+    {
+        "merged": "/home/rishi/.gradle/daemon/9.1.0/com.example.packetviewer.app-debug-38:/layout_view_ipv6_grid.xml.flat",
+        "source": "/home/rishi/.gradle/daemon/9.1.0/com.example.packetviewer.app-main-40:/layout/view_ipv6_grid.xml"
+    },
+    {
+        "merged": "/home/rishi/.gradle/daemon/9.1.0/com.example.packetviewer.app-debug-38:/layout_activity_register.xml.flat",
+        "source": "/home/rishi/.gradle/daemon/9.1.0/com.example.packetviewer.app-main-40:/layout/activity_register.xml"
+    },
+    {
+        "merged": "/home/rishi/.gradle/daemon/9.1.0/com.example.packetviewer.app-debug-38:/layout_fragment_viewer.xml.flat",
+        "source": "/home/rishi/.gradle/daemon/9.1.0/com.example.packetviewer.app-main-40:/layout/fragment_viewer.xml"
+    },
+    {
+        "merged": "/home/rishi/.gradle/daemon/9.1.0/com.example.packetviewer.app-debug-38:/layout_fragment_subnet.xml.flat",
+        "source": "/home/rishi/.gradle/daemon/9.1.0/com.example.packetviewer.app-main-40:/layout/fragment_subnet.xml"
+    },
+    {
+        "merged": "/home/rishi/.gradle/daemon/9.1.0/com.example.packetviewer.app-debug-38:/drawable_bg_cell_selected.xml.flat",
+        "source": "/home/rishi/.gradle/daemon/9.1.0/com.example.packetviewer.app-main-40:/drawable/bg_cell_selected.xml"
+    },
+    {
+        "merged": "/home/rishi/.gradle/daemon/9.1.0/com.example.packetviewer.app-debug-38:/layout_fragment_section.xml.flat",
+        "source": "/home/rishi/.gradle/daemon/9.1.0/com.example.packetviewer.app-main-40:/layout/fragment_section.xml"
+    },
+    {
+        "merged": "/home/rishi/.gradle/daemon/9.1.0/com.example.packetviewer.app-debug-38:/layout_activity_splash.xml.flat",
+        "source": "/home/rishi/.gradle/daemon/9.1.0/com.example.packetviewer.app-main-40:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/home/rishi/.gradle/daemon/9.1.0/com.example.packetviewer.app-debug-38:/layout_activity_main.xml.flat",
+        "source": "/home/rishi/.gradle/daemon/9.1.0/com.example.packetviewer.app-main-40:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.packetviewer.app-debug-38:/menu_main_menu.xml.flat",
+        "source": "com.example.packetviewer.app-main-40:/menu/main_menu.xml"
+    },
+    {
+        "merged": "/home/rishi/.gradle/daemon/9.1.0/com.example.packetviewer.app-debug-38:/drawable_bg_grid_cell.xml.flat",
+        "source": "/home/rishi/.gradle/daemon/9.1.0/com.example.packetviewer.app-main-40:/drawable/bg_grid_cell.xml"
+    },
+    {
+        "merged": "/home/rishi/.gradle/daemon/9.1.0/com.example.packetviewer.app-debug-38:/layout_fragment_transition.xml.flat",
+        "source": "/home/rishi/.gradle/daemon/9.1.0/com.example.packetviewer.app-main-40:/layout/fragment_transition.xml"
+    }
+]

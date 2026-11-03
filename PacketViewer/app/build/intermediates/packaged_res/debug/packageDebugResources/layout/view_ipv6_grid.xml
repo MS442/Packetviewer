@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  RFC 8200 IPv6 base header grid - always fixed 40 bytes, no IHL needed.
+-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <!-- Row 1: Version | Traffic Class | Flow Label -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/cellVersion6"
+            style="@style/GridCellStyle"
+            android:layout_weight="4"
+            android:text="Version\n(4b)" />
+
+        <TextView
+            android:id="@+id/cellTrafficClass"
+            style="@style/GridCellStyle"
+            android:layout_weight="8"
+            android:text="Traffic Class\n(8b)" />
+
+        <TextView
+            android:id="@+id/cellFlowLabel"
+            style="@style/GridCellStyle"
+            android:layout_weight="20"
+            android:text="Flow Label\n(20b)" />
+    </LinearLayout>
+
+    <!-- Row 2: Payload Length | Next Header | Hop Limit -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/cellPayloadLen"
+            style="@style/GridCellStyle"
+            android:layout_weight="16"
+            android:text="Payload Length\n(16b)" />
+
+        <TextView
+            android:id="@+id/cellNextHeader"
+            style="@style/GridCellStyle"
+            android:layout_weight="8"
+            android:text="Next Header\n(8b)" />
+
+        <TextView
+            android:id="@+id/cellHopLimit"
+            style="@style/GridCellStyle"
+            android:layout_weight="8"
+            android:text="Hop Limit\n(8b)" />
+    </LinearLayout>
+
+    <!-- Row 3: Source Address (128b, full width) -->
+    <TextView
+        android:id="@+id/cellSrcIP6"
+        style="@style/GridCellStyle"
+        android:layout_width="match_parent"
+        android:text="Source IP Address (128 bits)" />
+
+    <!-- Row 4: Destination Address (128b, full width) -->
+    <TextView
+        android:id="@+id/cellDstIP6"
+        style="@style/GridCellStyle"
+        android:layout_width="match_parent"
+        android:text="Destination IP Address (128 bits)" />
+
+</LinearLayout>

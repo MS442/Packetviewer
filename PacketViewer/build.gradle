@@ -1,0 +1,20 @@
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.google.gms:google-services:4.4.1'
+    }
+}
+
+plugins {
+    // AGP 9.0.1 requires a minimum Gradle version of 9.1.0 (per official
+    // Android docs). This is deliberately NOT the newest AGP release -
+    // AGP 9.1/9.2/9.3 each raise that Gradle floor further (some above
+    // 9.3.0), which would reintroduce this exact mismatch. 9.0.1 is the
+    // version whose Gradle requirement is comfortably satisfied by a
+    // Gradle 9.3.0 environment.
+    id 'com.android.application' version '9.0.1' apply false
+}
+
