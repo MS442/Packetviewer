@@ -1,0 +1,13 @@
+﻿*.class
+*.log
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+/build/
+/target/
+/out/
+/.gradle/
+/.idea/workspace.xml
+*.iml
+.DS_Store
+Thumbs.db
+.env
